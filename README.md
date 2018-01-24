@@ -59,4 +59,4 @@ Just add the class *.modal-fullscreen* to your bootstrap 4 modal.
 
 ## Version
 
-1.0.0
+1.0.1
