@@ -13,7 +13,8 @@
   },
   "homepage": "https://github.com/basilebong/bootstrap4-fullscreen-modal#readme",
   "dependencies": {
-    "bootstrap": "^4.0.0"
+    "bootstrap": "^4.0.0",
+    "jquery": "^3.3.1"
   },
   "devDependencies": {
     "gulp": "^3.9.1",
