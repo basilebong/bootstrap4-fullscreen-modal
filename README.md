@@ -1,6 +1,6 @@
 # Bootstrap 4 fullscreen modal
 
-An easy soltion to integrate fullscreen bootstrap modals.
+An easy solution to integrate fullscreen bootstrap modals.
 
 ## Install
 
@@ -59,4 +59,4 @@ Just add the class *.modal-fullscreen* to your bootstrap 4 modal.
 
 ## Version
 
-1.0.1
+1.0.2
