@@ -11,5 +11,16 @@
   "bugs": {
     "url": "https://github.com/basilebong/bootstrap4-fullscreen-modal/issues"
   },
-  "homepage": "https://github.com/basilebong/bootstrap4-fullscreen-modal#readme"
+  "homepage": "https://github.com/basilebong/bootstrap4-fullscreen-modal#readme",
+  "dependencies": {
+    "bootstrap": "^4.0.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-cssmin": "^0.2.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^1.12.1",
+    "pump": "^2.0.1"
+  }
 }
