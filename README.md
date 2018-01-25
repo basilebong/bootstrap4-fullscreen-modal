@@ -10,7 +10,13 @@ An easy solution to integrate fullscreen bootstrap modals.
 npm install --save bootstrap4-fullscreen-modal
 ```
 
-## How you use
+**Then add into your html head**
+
+```
+<link href="[YourPath]/bootstrap4-modal-fullscreen/dist/bootstrap4-modal-fullscreen.min.css" rel="stylesheet">
+```
+
+## Example
 
 Just add the class *.modal-fullscreen* to your bootstrap 4 modal.
 
@@ -59,4 +65,4 @@ Just add the class *.modal-fullscreen* to your bootstrap 4 modal.
 
 ## Version
 
-1.0.2
+1.0.3
