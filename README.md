@@ -18,7 +18,7 @@ npm install --save bootstrap4-fullscreen-modal
 
 ## Example
 
-Just add the class *.modal-fullscreen* to your bootstrap 4 modal.
+Just add the class _.modal-fullscreen_ to your bootstrap 4 modal.
 
 ```
 <!-- Button trigger modal -->
@@ -49,20 +49,12 @@ Just add the class *.modal-fullscreen* to your bootstrap 4 modal.
 
 ## Dependencies
 
-```
-"dependencies": {
-    "bootstrap": "^4.0.0",
-    "jquery": "^3.3.1"
-},
-```
-
-* [Bootstrap 4 ](https://getbootstrap.com/)
-* [JQuery](https://jquery.com/) 
+- [Bootstrap 4 ](https://getbootstrap.com/)
 
 ## Authors
 
-* **Basile Bong** 
+- **Basile Bong**
 
 ## Version
 
-1.0.3
+1.0.5
