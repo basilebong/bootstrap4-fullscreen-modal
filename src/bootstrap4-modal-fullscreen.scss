@@ -1,18 +1,25 @@
 .modal{
   &.modal-fullscreen{
-    .modal-dialog {
-      width: 100%;
-      height: 100%;
-      margin: 0;
-      padding: 0;
-      max-width: none;
-    }
 
-    .modal-content {
-      height: auto;
-      min-height: 100%;
-      border-radius: 0;
-      border: none;
+    .modal{
+      &-dialog{
+        width: 100vw;
+        height: 100vh;
+        margin: 0;
+        padding: 0;
+        max-width: none;
+      }
+
+      &-content{
+        height: auto;
+        height: 100vh;
+        border-radius: 0;
+        border: none;
+      }
+
+      &-body{
+        overflow-y: auto;
+      }
     }
   }
 }
