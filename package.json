@@ -14,11 +14,14 @@
   "homepage": "https://github.com/basilebong/bootstrap4-fullscreen-modal#readme",
   "dependencies": {},
   "devDependencies": {
-    "gulp": "4.0.1",
+    "gulp": "4.0.2",
     "gulp-cssmin": "^0.2.0",
-    "gulp-rename": "^1.2.2",
-    "gulp-sass": "4.0.2",
-    "gulp-sourcemaps": "^1.12.1",
-    "pump": "^2.0.1"
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "4.1.0",
+    "gulp-sourcemaps": "^2.6.5",
+    "pump": "^3.0.0"
+  },
+  "scripts": {
+    "build": "npx gulp"
   }
 }
